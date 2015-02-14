@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a Chicago native fleeing the cold and living with my family in Austin, TX. I really dig front-end JavaScript technologies, ruby, vim, tmux, and tacos.
 
-### More Information
+### Work Experience
 
-A place to include any other types of information that you'd like to include about yourself. 
+I keep my LinkedIn profile up to date here:  <a href="http://linkedin.com/in/timtyrrell"><i class="svg-icon linkedin"></i></a>
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tim@tyrrell.io](mailto:tim@tyrrell.io)
