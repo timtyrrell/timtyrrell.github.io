@@ -6,6 +6,8 @@ title: React Inline-Editor Example
 
 I wrote a little React.js inline-editor example and as far as I can tell this is the easiest spot to show an example:
 
+Code on Github: [Here](https://github.com/timtyrrell/react-inline-edit/)
+
 <div id="inline-example"></div>
 
 <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
